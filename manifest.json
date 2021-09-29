@@ -1,7 +1,7 @@
 {
   "name": "WAME",
   "short_name": "WAME",
-  "description": "Send WhatsApp messages without saving phone number to your contacts",
+  "description": "Send WhatsApp messages without saving phone number to your contacts or yourself",
   "dir": "ltr",
   "lang": "EN",
   "related_applications": [],
