@@ -2,8 +2,8 @@ self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open('wame').then(function (cache) {
       cache.addAll([
-        '/',
-        '/index.html',
+        '/WAME/',
+        '/WAME/index.html',
       ]);
     })
   );
